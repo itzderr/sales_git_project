@@ -1,9 +1,4 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-.idea/
-.ipynb_checkpoints/
-.env
-.env.*
-output/
+.idea
+__pycache__
+data/sales.csv
+
