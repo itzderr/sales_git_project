@@ -1,3 +1,7 @@
+"""
+    Main file
+
+"""
 from analysis import load_sales, total_revenue
 
 
